@@ -1,2 +1,0 @@
-# crawler-hm
-for huomaotv
